@@ -1,8 +1,6 @@
 # Chemibot
 Chemibot: Revolutionizing Laboratory Safety and Efficiency
 
-# Chemibot
-
 ![Chemibot](/Images/Project.png)
 
 ## Overview

@@ -17,7 +17,6 @@ The mission of the Chemibot project is to provide a smart solution that simplifi
 ## Key Features
 
 - **Automated Chemical Retrieval**: Utilizes a robotic arm for automated retrieval and storage of chemicals, minimizing human exposure to hazardous substances.
-- **Dual-Mode Operation**: Offers both automated and user-controlled modes for flexible chemical management.
 - **Real-Time Inventory Management**: Maintains a centralized database for tracking chemical locations and managing inventory in real-time.
 - **Algorithm-Driven Navigation**: Employs advanced algorithms to efficiently navigate storage cabinets and retrieve chemicals swiftly.
 

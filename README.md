@@ -3,6 +3,9 @@ Chemibot: Revolutionizing Laboratory Safety and Efficiency
 
 ![Chemibot](/Images/Project.png)
 
+### Watch Demo 
+[![YouTube](http://i.ytimg.com/vi/t03VZ0-3U7E/hqdefault.jpg)](https://www.youtube.com/watch?v=t03VZ0-3U7E)
+
 ## Overview
 
 Chemibot is an innovative AI-driven robotic system designed to revolutionize chemical management in laboratories. Developed by a team of AI undergraduates from the University of Moratuwa, Chemibot aims to enhance laboratory safety, efficiency, and precision by automating the retrieval and storage of chemicals.
